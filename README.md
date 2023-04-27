@@ -3,6 +3,7 @@
 
 <!-- # Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Ahmed , Welcome To My Github Profile  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73511&width=435&lines=There+is+always+a+place+at+the+top)](https://git.io/typing-svg)
 
 <br/>
 <br/>
@@ -16,7 +17,7 @@
 	
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73511&width=435&lines=There+is+always+a+place+at+the+top)](https://git.io/typing-svg)
+
 ### Languages and Tools 🛠 : 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
