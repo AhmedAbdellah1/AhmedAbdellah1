@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="360" height="260">
 
 <h3>🚀 About Me</h3> 
 <h4> I'm Ahmed Abdellah from Egypt. I'm a Full Stack Web Developer. I really enjoy learning Programming languages and frameworks. I'm junior full stack web developer and learning increasingly. </h4>
