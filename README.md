@@ -10,6 +10,7 @@
 <h3>🚀 About Me</h3> 
 <h4> I'm Ahmed Abdellah from Egypt. I'm a Full Stack Web Developer. I really enjoy learning Programming languages and frameworks. I'm junior full stack web developer and learning increasingly. </h4>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73511&width=435&lines=There+is+always+a+place+at+the+top)](https://git.io/typing-svg)
 
 	
 
