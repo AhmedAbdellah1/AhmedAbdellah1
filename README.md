@@ -28,7 +28,7 @@ and always seeking new challenges to further develop my skills.
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/github-bartzaalberg-php-tester-icon.png" width="40" height="40" alt="php" title="Github bartzaalberg php tester icon" width="256" height="256"> </a> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg" width="40" height="40" alt="php"> </a> 
+ 
 </p>
 
 <br>
